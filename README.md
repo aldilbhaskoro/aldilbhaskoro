@@ -26,8 +26,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldilbhaskoro&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldilbhaskoro&layout=compact&theme=tokyonight" alt="Top languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aldilbhaskoro&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldilbhaskoro&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top languages" height="180em"/>
 </p>
 
 ---
