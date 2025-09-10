@@ -46,4 +46,3 @@
 ⭐️ *"Code is like magic — it turns imagination into reality."*
 
 *"Aslinya ngoding cuma untuk selingan, selama hidup always nyasar. Mending ngebengkel :v"*
-/
